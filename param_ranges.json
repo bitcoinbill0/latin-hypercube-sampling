@@ -1,0 +1,12 @@
+[
+    {
+        "name": "risk_reward",
+        "from": 1,
+        "to": 4
+    },
+    {
+        "name": "wick_ratio",
+        "from": 0.4,
+        "to": 0.9
+    }
+]
