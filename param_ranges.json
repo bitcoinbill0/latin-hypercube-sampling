@@ -1,12 +1,42 @@
 [
     {
-        "name": "risk_reward",
-        "from": 1,
-        "to": 4
+        "name": "lookback",
+        "from": 55,
+        "to": 85
     },
     {
-        "name": "wick_ratio",
-        "from": 0.4,
-        "to": 0.9
+        "name": "stopDistance",
+        "from": 0.004,
+        "to": 0.007
+    },
+    {
+        "name": "targetDistance",
+        "from": 0.0225,
+        "to": 0.0275
+    },
+    {
+        "name": "riskPerTrade",
+        "from": 0.075,
+        "to": 0.125
+    },
+    {
+        "name": "volumeThreshold",
+        "from": 2,
+        "to": 2.2
+    },
+    {
+        "name": "avgVolumeThreshold",
+        "from": 2.8,
+        "to": 3
+    },
+    {
+        "name": "netVolumeUpper",
+        "from": 7000000,
+        "to": 8000000
+    },
+    {
+        "name": "netVolumeLower",
+        "from": 2000000,
+        "to": 3000000
     }
 ]
